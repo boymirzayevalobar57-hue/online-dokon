@@ -2,5 +2,5 @@
 
 5-variant. Mahsulotlar katalogi, savatcha va buyurtma tizimi.
 
-Valyuta belgisi: UZS
+Valyuta belgisi: USD
 
